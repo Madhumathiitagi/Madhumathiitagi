@@ -1,5 +1,43 @@
 💫 About Me
 
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,mysql,html,css,react,spring,docker,aws,jenkins,git,github,vscode" />
+</p>
+
+---
+
+# ⚡ Animated Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Backend+Developer;REST+API+Development;Learning+Microservices+%26+Cloud;Passionate+About+Software+Engineering" />
+</p>
+
+---
+
+# 🚀 Technologies I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+</p>
+
+---
+
+# 📈 Developer Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,maven,jenkins,postman" />
+</p>
+
+
 🎓 Computer Science Engineering Student from VTU
 💻 Passionate about Java Full Stack Development
 🚀 Skilled in developing responsive and scalable web applications
