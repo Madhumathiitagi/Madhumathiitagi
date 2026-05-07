@@ -148,4 +148,15 @@ Bachelor of Engineering (B.E.) in Computer Science & Engineering
 📊 GitHub Analytics
 ✨ Developer Mindset
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Madhumathiitagi\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Madhumathiitagi/Madhumathiitagi/blob/output/github-contribution-grid-snake.svg)
+
+
 “Building software is not just writing code — it's creating impactful digital experiences.”
