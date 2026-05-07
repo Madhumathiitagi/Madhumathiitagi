@@ -1,14 +1,26 @@
 💫 About Me
 
-# 💻 Tech Stack
+🎓 Computer Science Engineering Student from VTU
+💻 Passionate about Java Full Stack Development
+🚀 Skilled in developing responsive and scalable web applications
+🌱 Currently learning Advanced Spring Boot, Microservices & System Design
+🧠 Interested in Software Engineering, Backend Development & AI Technologies
+📚 Continuously improving Data Structures & Problem Solving Skills
+⚡ Love building impactful real-world projects and modern UI experiences
+
+🌐 Connect With Me 
+https://www.linkedin.com/in/madhumathi-itagi-8a71422a8/
+
+
+💻 Tech Stack
+
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,mysql,html,css,react,spring,docker,aws,jenkins,git,github,vscode" />
 </p>
 
----
 
-# ⚡ Animated Tech Stack
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Backend+Developer;REST+API+Development;Learning+Microservices+%26+Cloud;Passionate+About+Software+Engineering" />
@@ -38,16 +50,6 @@
 </p>
 
 
-🎓 Computer Science Engineering Student from VTU
-💻 Passionate about Java Full Stack Development
-🚀 Skilled in developing responsive and scalable web applications
-🌱 Currently learning Advanced Spring Boot, Microservices & System Design
-🧠 Interested in Software Engineering, Backend Development & AI Technologies
-📚 Continuously improving Data Structures & Problem Solving Skills
-⚡ Love building impactful real-world projects and modern UI experiences
-
-🌐 Connect With Me
-💻 Tech Stack
 👨‍💻 Programming Languages
 🎨 Frontend Development
 ⚙ Backend Development
