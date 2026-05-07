@@ -147,57 +147,55 @@ Bachelor of Engineering (B.E.) in Computer Science & Engineering
 ✅ AWS Fundamentals – Infosys Springboard
 📊 GitHub Analytics
 ✨ Developer Mindset
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Madhumathiitagi\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhumathiitagi&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumathiitagi&theme=tokyonight&hide_border=true" height="180em" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhumathiitagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumathiitagi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumathiitagi&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumathiitagi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔝 Top Contributed Repositories
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Madhumathiitagi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Madhumathiitagi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhumathiitagi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8" />
-</p>
+[![Madhumathi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhumathiitagi\&theme=tokyo-night)](https://github.com/Madhumathiitagi)
 
 ---
 
 # 👀 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhumathiitagi&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Madhumathiitagi?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Madhumathiitagi?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Madhumathiitagi&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Madhumathiitagi?style=for-the-badge&color=38BDF8" />
+  <img src="https://img.shields.io/github/stars/Madhumathiitagi?style=for-the-badge&color=38BDF8" />
 </p>
 
 ---
 
-# 📫 How to Reach Me
+# 🐍 Contribution Snake
 
-💼 LinkedIn: https://www.linkedin.com/in/madhumathi-itagi-8a71422a8/
-📧 Email: [madhu5.cse.rymec@gmail.com](mailto:madhu5.cse.rymec@gmail.com)
-💻 GitHub: https://github.com/Madhumathiitagi
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Madhumathiitagi/Madhumathiitagi/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
+
+
+
+
 
 ✨ Feel free to connect, collaborate, and build amazing projects together!
 
