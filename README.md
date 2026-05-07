@@ -154,9 +154,53 @@ Bachelor of Engineering (B.E.) in Computer Science & Engineering
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 GitHub Statistics
 
-![snake gif](https://github.com/Madhumathiitagi/Madhumathiitagi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhumathiitagi&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhumathiitagi&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumathiitagi&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Madhumathiitagi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madhumathiitagi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8" />
+</p>
+
+---
+
+# 👀 Profile Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhumathiitagi&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Madhumathiitagi?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Madhumathiitagi?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
+
+---
+
+# 📫 How to Reach Me
+
+💼 LinkedIn: https://www.linkedin.com/in/madhumathi-itagi-8a71422a8/
+📧 Email: [madhu5.cse.rymec@gmail.com](mailto:madhu5.cse.rymec@gmail.com)
+💻 GitHub: https://github.com/Madhumathiitagi
+
+✨ Feel free to connect, collaborate, and build amazing projects together!
+
 
 
 “Building software is not just writing code — it's creating impactful digital experiences.”
